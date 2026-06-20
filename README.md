@@ -1,5 +1,11 @@
 # remote-shell-android
 
+> [!NOTE]
+> **This repo has moved.** Development now lives in the
+> [`remote-shell`](https://github.com/0xshawn/remote-shell) monorepo, under
+> [`android/`](https://github.com/0xshawn/remote-shell/tree/main/android).
+> Please use that repo for the latest code and issues.
+
 A native **Android client** for [`remote-shell`](../remote-shell) — the persistent web
 shell whose defining feature is **session persistence**: kill the app, switch networks,
 reconnect, and you resume the *exact* same shell (working directory, env vars, running
